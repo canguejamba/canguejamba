@@ -3,6 +3,20 @@
 
 My name is Cangue Jamba and I'm a Software Developer. I'm from Angola, living in Italy and currently working at TAI SOLUTIONS. You can find me on  [![LinkedIn][3.2]][3].
 
+
+**concat**   
+[![](https://img.shields.io/badge/-blog-white?style=flat-square&logo=hexo&logoColor=21759B)](http://argwebs.altervista.org/blog/)
+[![](https://img.shields.io/badge/-github-white?style=flat-square&logo=github&logoColor=black)](https://github.com/canguejamba)
+[![](https://img.shields.io/badge/-gmail-white?style=flat-square&logo=gmail&logoColor=red)](https://accounts.google.com/)
+
+
+**Languages:**  
+[![](https://img.shields.io/badge/-italian-green?style=flat-square&logo=english&logoColor=blue)]()
+[![](https://img.shields.io/badge/-portuguese-orange?style=flat-square&logo=english&logoColor=blue)]()
+[![](https://img.shields.io/badge/-English-blue?style=flat-square&logo=english&logoColor=blue)]()
+[![](https://img.shields.io/badge/-Spanish-blue?style=flat-square&logo=Spanish&logoColor=blue)]()
+
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [argwebs](http://argwebs.altervista.org/blog/).
@@ -40,3 +54,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/cjganda/
+
+
