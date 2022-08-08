@@ -53,6 +53,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/cjganda/
+[3]: https://www.linkedin.com/in/cganda0/
 
 
